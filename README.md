@@ -1,4 +1,4 @@
-[![MasterHead](https://www.blueoceanglobaltech.com/wp-content/uploads/2021/08/Data-Science-Banner.jpg)
+![MasterHead](https://www.blueoceanglobaltech.com/wp-content/uploads/2021/08/Data-Science-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Lalit Singh Bisht</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
