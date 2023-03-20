@@ -1,7 +1,7 @@
 ![MasterHead](https://www.blueoceanglobaltech.com/wp-content/uploads/2021/08/Data-Science-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Lalit Singh Bisht</h1>
 <h3 align="center">A passionate data scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
+<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitsinghbisht&label=Profile%20views&color=6853a2&style=plastic" alt="lalitsinghbisht" /> </p>
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lalit singh bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit singh bisht" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Lalit Singh Bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit singh bisht" height="30" width="40" /></a>
 <a href="https://kaggle.com/lalit547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lalit547" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
