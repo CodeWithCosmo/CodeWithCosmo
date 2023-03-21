@@ -1,7 +1,7 @@
 ![MasterHead](https://www.blueoceanglobaltech.com/wp-content/uploads/2021/08/Data-Science-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Lalit Singh Bisht</h1>
 <h3 align="center">A passionate data scientist from India</h3>
-<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitsinghbisht&label=Profile%20views&color=6853a2&style=plastic" alt="lalitsinghbisht" /> </p>
 
