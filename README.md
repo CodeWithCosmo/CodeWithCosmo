@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithcosmo&show_icons=true&theme=dark&hide_border=true&locale=en" alt="codewithcosmo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithcosmo&theme=dark" alt="codewithcosmo" /></p>
+
+# Try Jupyter Notebook
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CodeWithCosmo/CodeWithCosmo/master)
