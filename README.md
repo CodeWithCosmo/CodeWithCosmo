@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithcosmo&theme=dark" alt="codewithcosmo" /></p>
 
-# Try Jupyter Notebook
+# Jupyter Notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CodeWithCosmo/CodeWithCosmo/master)
