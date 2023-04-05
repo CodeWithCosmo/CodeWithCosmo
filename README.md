@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lb5470272@gmail.com**
 
-- ⚡ Fun fact **In my childhood, I thought tadpole is a kind of fish 😂**
+- ⚡ Beliefs **I strongly believe that this whole world is actually a simulation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
