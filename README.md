@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
 <h1 align="center">Hi 👋, I'm Lalit Singh Bisht</h1>
 <h3 align="center">A passionate data scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif">ß
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeWithCosmo&label=Profile%20views&color=3120b1&style=plastic" alt="CodeWithCosmo" /> </p>
 
