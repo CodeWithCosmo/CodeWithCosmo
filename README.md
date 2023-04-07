@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lb5470272@gmail.com**
 
-- ⚡ Fun fact **I strongly believe that this whole world is actually a simulation, And we are nothing but an advanced reinforcement model which learn from their experiences**
+- ⚡ Fun fact **I strongly believe that this whole world is actually a simulation, And we are nothing but an advanced reinforcement model which learn from our experiences**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
