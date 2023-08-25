@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeWithCosmo" alt="CodeWithCosmo" /></a> </p>
 
-- 🔭 I’m currently working on [Youtube Scrapping](https://github.com/CodeWithCosmo/YoutubeScrape)
+- 🔭 I’m currently working on [Wafer Fault Detection](https://github.com/CodeWithCosmo/Wafer_Fault_Detection.git)
 
 - 🌱 I’m currently learning **Data Science, Machine Learning etc...**
 
