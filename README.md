@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Wafer Fault Detection](https://github.com/CodeWithCosmo/Wafer_Fault_Detection.git)
 
-- 🌱 I’m currently learning **Data Science, Machine Learning etc...**
+- 🌱 I’m currently learning **CNN in Deep Learning**
 
 - 💬 Ask me about **Data Structures, Statistics, Databases, Python, MySQL, MongoDB, Machine Learning, Deep Learning etc...**
 
