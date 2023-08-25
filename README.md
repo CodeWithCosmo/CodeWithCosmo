@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning etc...**
 
-- 💬 Ask me about **Data Structures, Statistics, Databases, Python, R, MySQL, MongoDB**
+- 💬 Ask me about **Data Structures, Statistics, Databases, Python, MySQL, MongoDB, Machine Learning, Deep Learning etc...**
 
 - 📫 How to reach me **lb5470272@gmail.com**
 
