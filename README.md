@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://www.youtube.com/channel/UCkBUpoX7izI7zGOAWw8jyow" target="blank"><img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="Lalit Singh Bisht" height="30" width="40" /></a>
 <a href="https://replit.com/@CodeWithCosmo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" alt="CodeWithCosmo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/CodeWithCosmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lalit Singh Bisht" height="30" width="40" /></a>
 <a href="https://kaggle.com/CodeWithCosmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="CodeWithCosmo" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
