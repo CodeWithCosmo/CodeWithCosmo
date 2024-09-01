@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **CNN in Deep Learning**
 
-- 💬 Ask me about **Python, Data Structures, Statistics, Databases, MySQL, MongoDB,Docker ,Power BI, Machine Learning, Deep Learning etc...**
+- 💬 Ask me about **Python, Data Structures, Statistics, Databases, MySQL, MongoDB, Docker, Power BI, Machine Learning, Deep Learning etc...**
 
 - 📫 How to reach me **lb5470272@gmail.com**
 
